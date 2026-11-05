@@ -45,8 +45,8 @@ The objective of this project is to develop, evaluate, and deploy an end-to-end 
 
 ## c. Github Repository Link
 
-- **GitHub Repository Link:** <PASTE_YOUR_GITHUB_REPO_LINK_HERE>
-- **Live Streamlit App Link:** <PASTE_YOUR_STREAMLIT_APP_LINK_HERE>
+- **GitHub Repository Link:** https://github.com/Saksham2026AJ05199/ml-assignment-bank-marketing
+- **Live Streamlit App Link:** https://ml-assignment-bank-marketing-m4wmbhiumrdh6dx4vxl3zb.streamlit.app/
 
 ### Repository Structure:
 project-folder/
