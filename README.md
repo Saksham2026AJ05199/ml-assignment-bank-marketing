@@ -62,7 +62,7 @@ project-folder/
 |   |-- svm.joblib
 |   |-- test.csv
 |   |-- model_comparison.csv
-|   |-- notebook.ipynb         # Source code of training & evaluation
+|   |-- Assignment_ML2.ipynb         # Source code of training & evaluation
 
 ---
 
